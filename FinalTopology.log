@@ -1,0 +1,21 @@
+Circuit: * C:\Users\LENOVO\Desktop\EE463_PROJECT\FinalTopology.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Dec 23 17:18:53 2023
+Total elapsed time: 0.221 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 66223
+traniter = 66205
+tranpoints = 24901
+accept = 19584
+rejected = 5317
+matrix size = 14
+fillins = 20
+solver = Normal
+Matrix Compiler1: 1.32 KB object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 1.31 KB object code size  0.1/0.2/[0.1]
+
